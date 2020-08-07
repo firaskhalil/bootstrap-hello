@@ -52,10 +52,72 @@ Training project
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <a href="#" class="btn btn-primary">view</a>
+     <a href="#" class="btn btn-primary">view</a>
   </div>
 </div>
 </div>
+    
+    <div class="col-md-3 mt-3">
+<div class="card" >
+  <img src="D:/h.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">view</a>
+     <a href="#" class="btn btn-primary">view</a>
+  </div>
+</div>
+</div>
+
+<div class="col-md-3 mt-3">
+<div class="card" >
+  <img src="D:/h.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">view</a>
+     <a href="#" class="btn btn-primary">view</a>
+  </div>
+</div>
+</div>
+
+<div class="col-md-3 mt-3">
+<div class="card" >
+  <img src="D:/h.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">view</a>
+     <a href="#" class="btn btn-primary">view</a>
+  </div>
+</div>
+</div>
+
+<div class="col-md-3 mt-3">
+<div class="card" >
+  <img src="D:/h.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">view</a>
+     <a href="#" class="btn btn-primary">view</a>
+  </div>
+</div>
+</div>
+
+<div class="col-md-3 mt-3">
+<div class="card" >
+  <img src="D:/h.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">view</a>
+     <a href="#" class="btn btn-primary">view</a>
+  </div>
+</div>
+</div>
+
   </div>
 </div>
   
@@ -78,25 +140,32 @@ Training project
   
   
   
-  <div class="card text-center">
+<nav class="navbar navbar-dark bg-dark">
+  <!-- Navbar content -->
+<P Align="center" ><FONT FACE="Arial" SIZE="5" COLOR="#FFFFFF"> 
+ <B>Hello Bootstrap</B></FONT></P>
+
+</nav>
+
+
+
+
+<div class="card text-center">
   <div class="card-header">
     <ul class="nav nav-tabs card-header-tabs">
-      <li class="nav-item">
-        <a class="nav-link active" href="#">Hello Bootstrap</a>
-      </li>
+    
      
     </ul>
   </div>
   <div class="card-body">
     <h5 class="card-title">Hello Bootstrap</h5>
     <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-    <a href="#" class="btn btn-primary">Main call to action</a>
-    <a href="#" class="btn btn-primary">Secondary action</a>
+    
   </div>
 </div>
   
   
-    <h1>Hello, world!</h1>
+    
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
