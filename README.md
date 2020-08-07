@@ -13,6 +13,24 @@ Training project
     <title>Hello, world!</title>
   </head>
   <body>
+  <div class="card text-center">
+  <div class="card-header">
+    <ul class="nav nav-tabs card-header-tabs">
+      <li class="nav-item">
+        <a class="nav-link active" href="#">Hello Bootstrap</a>
+      </li>
+     
+    </ul>
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Hello Bootstrap</h5>
+    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+    <a href="#" class="btn btn-primary">Main call to action</a>
+    <a href="#" class="btn btn-primary">Secondary action</a>
+  </div>
+</div>
+  
+  
     <h1>Hello, world!</h1>
 
     <!-- Optional JavaScript -->
