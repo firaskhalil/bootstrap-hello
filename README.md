@@ -125,7 +125,10 @@ Training project
   
   
   
-  
+ <p class="lead "   Align="left">
+  All Rigs Reserved || Copyright TechnoTrue 2020
+</p>
+
   
   
   
