@@ -13,6 +13,56 @@ Training project
     <title>Hello, world!</title>
   </head>
   <body>
+  
+  
+  
+  <nav class="navbar navbar-dark bg-dark">
+  <!-- Navbar content -->
+<P Align="center" ><FONT FACE="Arial" SIZE="5" COLOR="#FFFFFF"> 
+ <B>Hello Bootstrap</B></FONT></P>
+
+</nav>
+
+
+
+
+<div class="card text-center">
+  <div class="card-header">
+    <ul class="nav nav-tabs card-header-tabs">
+    
+     
+    </ul>
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Hello Bootstrap</h5>
+    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+    <a href="#" class="btn btn-primary">Main call to action</a>
+    <a href="#" class="btn btn-primary">Secodary action</a>
+  </div>
+</div>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <div class="card text-center">
   <div class="card-header">
     <ul class="nav nav-tabs card-header-tabs">
