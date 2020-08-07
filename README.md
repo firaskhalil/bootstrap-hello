@@ -126,7 +126,8 @@ Training project
   
   
  <p class="lead "   Align="left">
-  All Rigs Reserved || Copyright TechnoTrue 2020
+  All Rigs Reserved || Copyright TechnoTrue 2020 <p class="lead "   Align="center"><a href="#" class="text-primary">Back to top</a>
+</p>
 </p>
 
   
